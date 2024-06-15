@@ -14,7 +14,7 @@ banner() {
     echo "Your ip : $ip"
     echo "    "
     echo -e $white"\a     NO!"$red"                          MNO!   "
-    echo -e $white"     MNO!!"$red"         [AMR]"$red"          MNNOO!    "
+    echo -e $white"     MNO!!"$red"         [ERROR]"$red"         MNNOO!    "
     echo -e $white"   MMNO!"$red"                           MNNOO!! "
     echo -e $white"  MNOONNOO!"$red"   MMMMMMMMMM"$white"PPPOII!"$red"   MNNO!!!!  "
     echo -e $white" !O! NNO!"$red" MMMMMMMMMMMMM"$white"PPPOOOII!!"$red" NO!       "
@@ -35,6 +35,8 @@ banner() {
     echo -e $white"      MNNNNO!    "$red"PPP"$white"PPPPPP"$red"    MMNON!      "
     echo -e $white"         OO!"$red"                   ON!        "
     echo -e $white
+
+    echo -e $red" termuxcommands.com"
 }
 
 Myip() {
