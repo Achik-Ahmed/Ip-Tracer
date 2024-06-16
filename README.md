@@ -24,6 +24,7 @@ chmod +x get-help.sh
 ```
 bash get-help.sh
 ```
-
+![IMG-20240615-WA0043](https://github.com/Achik-Ahmed/Ip-Tracer/assets/153425431/b5f87fb4-7c94-4c26-8871-82768c00d820)
+In here, you can choose any option to contact us, and it will redirect it to our official social media platforms.
 
 
