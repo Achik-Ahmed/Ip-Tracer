@@ -10,3 +10,20 @@ To install this IP address tracer tool, you can visit our blog post that provide
 All the commands and usage of this IP address tracer tool are given in the blog post. 
 
 You can install this tool just by following some simple commands, and I have also provided a one-line installation command for this tool in the blog post. You can use that one-line command to install this Termux IP address tracer tool with just one click.
+### Get Help
+If you have any questions or are facing any problems regarding this tool, then you can use the Get Help script that I have attached to it. Here are the commands to use the Get Help script:
+```
+git clone https://github.com/Achik-Ahmed/Ip-Tracer/
+```
+```
+cd Ip-Tracer
+```
+```
+chmod +x get-help.sh
+```
+```
+bash get-help.sh
+```
+
+
+
